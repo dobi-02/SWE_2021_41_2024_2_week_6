@@ -1,6 +1,5 @@
 # Week 4 Assignment
 
-__unordered list__
 - link of my repository
   >[week4](https://github.com/dobi-02/SWE_2021_41_2024_2_week_4)
   <pre>
